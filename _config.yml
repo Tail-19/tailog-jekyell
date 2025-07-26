@@ -1,4 +1,5 @@
-theme: minima
+# theme: minima
+remote_theme: Moonwalk
 title: Tail-19's personal blog
 description: This is where I share cool stuff about my life
 author: Tail-19
