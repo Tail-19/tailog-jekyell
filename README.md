@@ -3,7 +3,7 @@
 
 # 🌟 This is a blog site
 
-[[blog site](https://tail-19.github.io/tail-19-blog/)]
+[[blog site](https://tail-19.github.io/tailog/)]
 
 </div>
 
