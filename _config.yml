@@ -1,5 +1,5 @@
-theme: minima
-remote_theme: moonwalk
+# theme: minima
+remote_theme: sighingnow/jekyll-gitbook
 title: Tail-19's personal blog
 description: This is where I share cool stuff about my life
 author: Tail-19
